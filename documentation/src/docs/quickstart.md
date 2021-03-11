@@ -1,3 +1,7 @@
+---
+title: Quick Start
+---
+
 <!--
 Copyright (c) 2017 Dell Inc., or its subsidiaries. All Rights Reserved.
 
@@ -8,7 +12,6 @@ You may obtain a copy of the License at
     http://www.apache.org/licenses/LICENSE-2.0
 -->
 
-# Getting Started
 ## Creating a Flink Stream Processing Project
 
 **Note**: _You can skip this step if you have a streaming project set up already._

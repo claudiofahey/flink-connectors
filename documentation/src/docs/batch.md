@@ -1,3 +1,7 @@
+---
+title: Batch
+---
+
 <!--
 Copyright (c) 2017 Dell Inc., or its subsidiaries. All Rights Reserved.
 
@@ -7,7 +11,7 @@ You may obtain a copy of the License at
 
     http://www.apache.org/licenses/LICENSE-2.0
 -->
-# Batch Connector
+
 The Flink Connector library for Pravega makes it possible to use a Pravega Stream as a data source and data sink in a batch program.  See the below sections for details.
 
 ## Table of Contents

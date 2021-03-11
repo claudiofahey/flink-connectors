@@ -1,3 +1,7 @@
+---
+title: Configurations
+---
+
 <!--
 Copyright (c) 2017 Dell Inc., or its subsidiaries. All Rights Reserved.
 
@@ -8,7 +12,6 @@ You may obtain a copy of the License at
     http://www.apache.org/licenses/LICENSE-2.0
 -->
 
-# Configurations
 The Flink connector library for Pravega supports the **Flink Streaming API**, **Table API** and **Batch API**, using a common configuration class.  
 
 ## Table of Contents

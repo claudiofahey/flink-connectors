@@ -1,3 +1,7 @@
+---
+title: Serialization
+---
+
 <!--
 Copyright (c) 2017 Dell Inc., or its subsidiaries. All Rights Reserved.
 
@@ -7,7 +11,6 @@ You may obtain a copy of the License at
 
     http://www.apache.org/licenses/LICENSE-2.0
 -->
-# Serialization
 
 **Serialization** refers to converting a data element in your Flink program to/from a message in a Pravega stream.
 
