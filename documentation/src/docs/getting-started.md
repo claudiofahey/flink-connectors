@@ -12,12 +12,24 @@ You may obtain a copy of the License at
     http://www.apache.org/licenses/LICENSE-2.0
 -->
 
+import TOCInline from '@theme/TOCInline';
+import { IfHaveFeature, IfMissingFeature } from 'nautilus-docs';
+
 [![Build Status](https://travis-ci.org/pravega/flink-connectors.svg?branch=master)](https://travis-ci.org/pravega/flink-connectors)
 
 This repository implements  connectors to read and write [Pravega](http://pravega.io/) Streams with [Apache Flink](http://flink.apache.org/) stream processing framework.
 
+<IfHaveFeature feature="nautilus">
+
+:::tip Streaming Data Platform
+Users of Streaming Data Platform should follow [Getting Started with Flink on SDP](/sdp/analytics/flink/getting-started).
+:::
+
+</IfHaveFeature>
+
 The connectors can be used to build end-to-end stream processing pipelines (see [Samples](https://github.com/pravega/pravega-samples)) that use Pravega as the stream storage and message bus, and Apache Flink for computation over the streams.
 
+<TOCInline toc={toc} />
 
 ## Features & Highlights
 
