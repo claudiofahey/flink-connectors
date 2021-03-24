@@ -1,3 +1,7 @@
+---
+title: Developer's Guide
+---
+
 <!--
 Copyright (c) Dell Inc., or its subsidiaries. All Rights Reserved.
 
